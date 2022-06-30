@@ -1,0 +1,10 @@
+100% Test Scripts executed	  Done
+ 95% pass rate of Test Scripts	
+ No open Critical and High severity defects	
+ 95% of Medium severity defects have been closed	
+ All remaining defects are either canceled or documented as Change Requests for a future release	
+ All expected and actual results are captured and documented with the test script	 Done
+ All test metrics are collected based on reports from HP ALM	
+ All defects are logged in HP ALM	 Done
+ Test Closure Memo is completed and signed off
+new test
